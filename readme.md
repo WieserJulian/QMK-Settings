@@ -11,3 +11,12 @@ qmk compile -kb splitkb/aurora/lily58 -km JJW -e CONVERT_TO=liatris
 ````qmk bash
 qmk flash -kb splitkb/aurora/lily58 -km JJW -e CONVERT_TO=liatris
 ````
+
+##layout
+![img.png](imgs/layer0.png)
+##layer 1
+![img.png](imgs/layer1.png)
+##layer 2
+![img.png](imgs/layer2.png)
+##layer 3
+![img.png](imgs/layer3.png)
